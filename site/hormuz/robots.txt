@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /hormuz/
+Sitemap: https://usehormuz.github.io/sitemap.xml
