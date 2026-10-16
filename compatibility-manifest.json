@@ -675,6 +675,12 @@
       "kind": "preserved_asset",
       "source": "live legacy Pages before transfer",
       "sha256": "027d62f3d2091c4ad01da49f48859ca3b6f65a98505f2ce1cb51dc5b549459af"
+    },
+    {
+      "path": "404.html",
+      "kind": "fallback",
+      "source": "compatibility publication root fallback",
+      "sha256": "caed68e8c7026ebf8f8997af1553ca5fa0d0edd887f1fe505692f3e7a320d5fa"
     }
   ],
   "review_snapshot_published": false,
