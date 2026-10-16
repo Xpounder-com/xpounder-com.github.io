@@ -1,7 +1,6 @@
 {
   "schema_version": 1,
-  "published": false,
-  "intended_repository": "Xpounder-com/Xpounder-com.github.io",
+  "intended_repository": "Xpounder-com/xpounder-com.github.io",
   "intended_origin": "https://xpounder-com.github.io",
   "excluded_paths": [
     "hormuz/"
@@ -103,5 +102,7 @@
       "target": "https://mehrdadxzaker.github.io/radiodesk/",
       "sha256": "95c4b84487f2c78f8d1001b486531db177b3eface9ef179c3a71afa2b3d576d3"
     }
-  ]
+  ],
+  "review_snapshot_published": false,
+  "publication_status": "See GitHub Pages deployment history; this manifest records approved source hashes."
 }
