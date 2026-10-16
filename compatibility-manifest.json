@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "published": false,
+  "intended_repository": "Xpounder-com/Xpounder-com.github.io",
+  "intended_origin": "https://xpounder-com.github.io",
+  "excluded_paths": [
+    "hormuz/"
+  ],
+  "reason": "Hormuz and its existing Pages site remain in Xpounder.",
+  "entries": [
+    {
+      "path": "llms-in-modern-agentic-systems/.nojekyll",
+      "kind": "preserved_asset",
+      "source_path": "docs/.nojekyll",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/favicon.svg",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/favicon.svg",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "bdaaa26649cbc6a7f3e56b1ed53dfa9b00fa5c0f4e8119214eab7b5730ccfc39"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/github-link-icon.png",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/github-link-icon.png",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "81a3819505e62d1a40de3c97d213312af6d21d2a6d567764ab97d11fb2e31c4a"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/literature-atlas.png",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/literature-atlas.png",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "ec3010dd462b432674e78a958551f469b3923c1c500f45de4a7f6b012d0c42e5"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/literature-data.js",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/literature-data.js",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "4b8b98a7eabeafd2ca0da1b381b0ed1b991573cb6a75027cfe9fd45e88cdde06"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/project-link-icon.png",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/project-link-icon.png",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "73199861c1c6e64a253cc9f48042f7c882bf6ce69707e759524ba8d96d5d22e5"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/site.js",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/site.js",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "0f16612c6115773ac151861b1a50dd4517e3ca8ff7ade9fe8204b40fa60dc13c"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/systems-overview.png",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/systems-overview.png",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "e13cfeabb726f0eb582285ec8edb047fef47ff40251ba96fd3a2f77cc8828637"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/systems-overview.svg",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/systems-overview.svg",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "577ab4daf446a41140967885310a7d89667a3bb838aaf40d893b38c83931f719"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/assets/theme.css",
+      "kind": "preserved_asset",
+      "source_path": "docs/assets/theme.css",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "71c3c557414f56f9ae961aa29a1eb2fa6c3b2c244b5a76c9c1bf0e9aedbf168a"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/index.html",
+      "kind": "redirect",
+      "target": "https://mehrdadxzaker.github.io/llms-in-modern-agentic-systems/",
+      "sha256": "8ab8ec00b6ad701df5a8a4692494b39b9ef2d456a8cee21b4943e18996f03cd4"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/llms-in-modern-agentic-systems.pdf",
+      "kind": "preserved_asset",
+      "source_path": "docs/llms-in-modern-agentic-systems.pdf",
+      "source_sha": "1ef239d654cdf5d2b4772a83585d1fcdcc265916",
+      "sha256": "5ead3941f03a323290a8a45426748a05ed51348345e85c7e31ab58ccfbb15d16"
+    },
+    {
+      "path": "llms-in-modern-agentic-systems/narrative/index.html",
+      "kind": "redirect",
+      "target": "https://mehrdadxzaker.github.io/llms-in-modern-agentic-systems/narrative/",
+      "sha256": "e19c952be8b3b420f766488248e592664ba7f38823a08884044e5d3dba42c625"
+    },
+    {
+      "path": "radiodesk/index.html",
+      "kind": "redirect",
+      "target": "https://mehrdadxzaker.github.io/radiodesk/",
+      "sha256": "95c4b84487f2c78f8d1001b486531db177b3eface9ef179c3a71afa2b3d576d3"
+    }
+  ]
+}
